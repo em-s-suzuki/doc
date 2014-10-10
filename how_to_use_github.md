@@ -1,4 +1,4 @@
-## git の使い方
+## git の使い方（社内向け）
 ### お勧め設定
 以下のような .gitconfig ファイルをホームディレクトリに置く
 ```
@@ -32,4 +32,4 @@
 * git di （= git diff --color-words。svn で言うと svn diff）
 
 
-## github の使い方
+## github の使い方（社内向け）
