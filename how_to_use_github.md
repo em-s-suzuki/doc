@@ -1,4 +1,5 @@
-# 基本的な設定
+## git の使い方
+### お勧め設定
 以下のような .gitconfig ファイルをホームディレクトリに置く
 ```
 [color]
@@ -22,5 +23,13 @@
   br = branch
 ```
   
-# 基本的な操作コマンド
+### 基本的な操作コマンド
 
+* git clone
+* git st
+* git co
+* git ci
+* git di
+
+
+## github の使い方
